@@ -281,27 +281,35 @@ If you use S-Mapper in your research, please cite:
 This work builds on:
 
 ```bibtex
-@article{tao2024dmapper,
-  title   = {A distribution-guided Mapper algorithm},
-  author  = {Tao, Yuyang and Ge, Shufei},
-  year    = {2024},
-  url     = {https://arxiv.org/abs/2401.12237}
+@article{tao2025distribution,
+  title={A distribution-guided Mapper algorithm},
+  author={Tao, Yuyang and Ge, Shufei},
+  journal={BMC bioinformatics},
+  volume={26},
+  number={1},
+  pages={73},
+  year={2025},
+  publisher={Springer}
 }
 
 @article{van2023mealpy,
-  title   = {MEALPY: An open-source library for latest meta-heuristic algorithms in Python},
-  author  = {Van Thieu, Nguyen and Mirjalili, Seyedali},
-  journal = {Journal of Systems Architecture},
-  year    = {2023},
-  doi     = {10.1016/j.sysarc.2023.102871}
+  title={MEALPY: An open-source library for latest meta-heuristic algorithms in Python},
+  author={Van Thieu, Nguyen and Mirjalili, Seyedali},
+  journal={Journal of Systems Architecture},
+  volume={139},
+  pages={102871},
+  year={2023},
+  publisher={Elsevier}
 }
 
-@article{naul2019kepler,
-  title   = {Kepler Mapper: A flexible Python implementation of the Mapper algorithm},
-  author  = {van Veen, Hendrik Jacob and Saul, Nathaniel and Eargle, David and Mangham, Sam W.},
-  journal = {Journal of Open Source Software},
-  year    = {2019},
-  doi     = {10.21105/joss.01315}
+@article{van2019kepler,
+  title={Kepler Mapper: A flexible Python implementation of the Mapper algorithm.},
+  author={Van Veen, Hendrik Jacob and Saul, Nathaniel and Eargle, David and Mangham, Sam W},
+  journal={Journal of Open Source Software},
+  volume={4},
+  number={42},
+  pages={1315},
+  year={2019}
 }
 ```
 
@@ -318,4 +326,4 @@ MEALPY is licensed under MIT — see [implement/mealpy/](implement/mealpy/).
 
 ## Contact
 
-For bugs or questions, open a GitHub issue.
+For bugs or questions, open a GitHub issue or email [huybm.ds@gmail.com](mailto:huybm.ds@gmail.com).
