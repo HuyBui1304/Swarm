@@ -1,0 +1,16 @@
+=== PSO ===
+Best n: 25
+Best a: 0.147
+Best TSC: 0.8674
+Convergence epoch: 5
+Convergence time: 147.7984s
+Total time: 492.6613s
+
+=== GWO ===
+Best n: 25
+Best a: 0.1
+Best TSC: 0.8764
+Convergence epoch: 1
+Convergence time: 61.4114s
+Total time: 614.1141s
+
