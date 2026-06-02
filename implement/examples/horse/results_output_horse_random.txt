@@ -1,0 +1,8 @@
+=== Random-Mapper ===
+Best n: 12
+Best a: 0.118
+Best TSC: 0.7895
+Convergence iteration: 43
+Convergence time: 412.9324s
+Total time: 469.2413s
+
