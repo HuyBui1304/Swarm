@@ -266,18 +266,6 @@ Both algorithms reach the same optimal (N\*, p\*) on 7/9 datasets. GWO is consis
 ---
 
 ## Citation
-
-If you use S-Mapper in your research, please cite:
-
-```bibtex
-@article{smapper2025,
-  title   = {S-Mapper: A Topology-Aware Optimization Framework for Robust Mapper Construction},
-  year    = {2025},
-  journal = {ACM Transactions on Knowledge Discovery from Data},
-  note    = {Under review}
-}
-```
-
 This work builds on:
 
 ```bibtex
