@@ -1,7 +1,7 @@
 # D-Mapper
 D-Mapper is a distribution-guided Mapper algorithm, it implements the distribution-guided Mapper algorithm described in 
 
-[Yuyang Tao, Shufei Ge, A distribution-guided Mapper algorithm, 2024.](https://arxiv.org/abs/2401.12237)
+Yuyang Tao, Shufei Ge. A distribution-guided Mapper algorithm. *BMC Bioinformatics*, 26(1):73, 2025. https://doi.org/10.1186/s12859-025-06085-5
 
 
 The D-Mapper can provide flexible interval construction base on the mixture distribution of projected data.  
@@ -11,7 +11,7 @@ This algorithm is programmed as an extension to the KeplerMapper ([Background â€
 # Citation
 If you use D-Mapper in your research, please cite the following mannuscript:
 
-Yuyang Tao, Shufei Ge. A distribution-guided Mapper algorithm, 2024.
+Yuyang Tao, Shufei Ge. A distribution-guided Mapper algorithm. *BMC Bioinformatics*, 26(1):73, 2025. https://doi.org/10.1186/s12859-025-06085-5
 
 
 # Installation
